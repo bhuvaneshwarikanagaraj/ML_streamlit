@@ -7,7 +7,7 @@ import xgboost as xgb
 import joblib
 date_time = datetime.datetime.now()
 model = xgb.XGBRegressor()
-model.load_model('xgb_model.json')
+model.load_model('results.json')
 
 def main(): 
     html_temp="""

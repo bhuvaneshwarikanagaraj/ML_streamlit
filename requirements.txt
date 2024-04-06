@@ -1,3 +1,7 @@
 pandas
 scikit-learn
 xgboost
+streamlit
+datetime
+joblib
+numpy
